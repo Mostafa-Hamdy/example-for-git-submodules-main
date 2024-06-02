@@ -1,0 +1,3 @@
+[submodule "main-submodule"]
+	path = main-submodule
+	url = https://github.com/Mostafa-Hamdy/example-for-git-submodules
