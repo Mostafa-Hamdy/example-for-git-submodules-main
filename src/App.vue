@@ -13,7 +13,7 @@ import About from '../main-submodule/src/components/About.vue'
     </a>
   </div>
   <HelloWorld msg="Vite + Vue" />
-  <About />
+  this is About components: <About />
 </template>
 
 <style scoped>
